@@ -1,5 +1,5 @@
 name: auto_spacer
-version: 0.0.2
+version: 0.0.4
 description: A simple package that inserts a spacer widget between two widgets. This package is useful when you want to insert a spacer widget between two widgets in a list.
 repository: https://github.com/chitkosarvesh/auto_spacer
 environment:
