@@ -2,6 +2,7 @@
 
 - Better documentation
 - example added
+- auto publishing to pub.dev
 
 ## [0.0.2]
 
