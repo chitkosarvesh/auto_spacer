@@ -1,8 +1,11 @@
+##[0.0.4]
+
+- auto publishing to pub.dev
+
 ## [0.0.3]
 
 - Better documentation
 - example added
-- auto publishing to pub.dev
 
 ## [0.0.2]
 
